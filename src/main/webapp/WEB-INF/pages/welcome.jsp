@@ -1,0 +1,7 @@
+
+<html>
+	<body>
+	<h1>Welcome to the application!</h1>
+	</body>
+
+</html>
